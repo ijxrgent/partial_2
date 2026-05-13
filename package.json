@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/server.ts"
+    "dev": "nodemon src/server.ts",
+    "seed": "tsx src/faker/seed.ts"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "@types/node": "^25.7.0",
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
     "typescript": "^6.0.3"
   },
   "dependencies": {

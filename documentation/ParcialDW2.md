@@ -44,7 +44,7 @@ Controlador del modelo Tuition
 
 Rutas
 
-![](images/clipboard-2813493126.png)
+![<https://github.com/ijxrgent/partial_2/commit/533c235bf1f3a3309dc06b8713a9d7499e50e14d>](images/clipboard-2813493126.png)
 
 creando el faker de Car
 
@@ -52,4 +52,14 @@ creando el faker de Car
 
 Creando el faker de Tuition
 
-![](images/clipboard-4285038098.png)
+![<https://github.com/ijxrgent/partial_2/commit/f1e9cb33f40adce38ba9ed65e82c770f7752d7af>](images/clipboard-4285038098.png)
+
+Prueba de que funcionó
+
+![](images/clipboard-448365164.png)
+
+Evidencia
+
+![](images/clipboard-3730813066.png)
+
+![](images/clipboard-3120685359.png)
