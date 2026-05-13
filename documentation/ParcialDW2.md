@@ -19,3 +19,9 @@ Creando el modelo
 Controlador
 
 ![](images/clipboard-4085351372.png)
+
+<https://github.com/ijxrgent/partial_2/commit/75e3fdd748445cc44cd6525e4c90ff01c497a31a>
+
+Ahora creo la ruta
+
+![](images/clipboard-291193821.png)
