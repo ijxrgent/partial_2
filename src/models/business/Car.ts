@@ -1,7 +1,7 @@
 import { DataTypes, Model } from "@sequelize/core";
 import { sequelize } from "../../database/db.js";
 
-export interface UserI {
+export interface CarI {
   id?: number;
   marca: string;
   clase: string;
@@ -10,7 +10,7 @@ export interface UserI {
   capacidad: number;
 }
 
-export class User extends Model {
+export class Car extends Model {
   public id!: number;
   public marca!: string;
   public clase!: string;
@@ -19,7 +19,7 @@ export class User extends Model {
   public capacidad!: number;
 }
 
-User.init(
+Car.init(
   {
     id: {
       type: DataTypes.INTEGER,
