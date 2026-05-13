@@ -25,3 +25,11 @@ Controlador
 Ahora creo la ruta
 
 ![](images/clipboard-291193821.png)
+
+<https://github.com/ijxrgent/partial_2/commit/533c235bf1f3a3309dc06b8713a9d7499e50e14d>
+
+Ahora creo el modelo de Tuition
+
+![![](images/clipboard-2595294383.png)](images/clipboard-1542729316.png)
+
+![![](images/clipboard-3335005938.png)](images/clipboard-185741528.png)
