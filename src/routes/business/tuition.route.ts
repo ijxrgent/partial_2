@@ -1,7 +1,7 @@
 // src/routes/tuition.routes.ts
 
 import { Router } from "express";
-import { TuitionController } from "../../controllers/business/tuition.controller.js";
+import { TuitionController } from "../../controllers/business/tuition.controller";
 
 const router = Router();
 

@@ -63,3 +63,33 @@ Evidencia
 ![](images/clipboard-3730813066.png)
 
 ![](images/clipboard-3120685359.png)
+
+<https://github.com/ijxrgent/partial_2/commit/c7267fa9acecff3727b248797222752b9f3bb49c>
+
+Creando los archivo http
+
+cars.http
+
+![](images/clipboard-810421186.png)
+
+tuition.http
+
+![](images/clipboard-1921581968.png)
+
+# Declaración de uso de Inteligencia Artificial
+
+Para el desarrollo de este proyecto se utilizó Inteligencia Artificial como herramienta de apoyo en el proceso de aprendizaje, análisis y programación. La IA fue empleada principalmente para:
+
+- Orientación en la estructura del proyecto.
+
+- Generación de ejemplos de código en TypeScript, Express y Sequelize.
+
+- Resolución de errores de configuración y conexión.
+
+- Apoyo en la creación de modelos, controladores y rutas.
+
+- Generación de datos de prueba con Faker.
+
+- Explicaciones sobre integración de bases de datos como MySQL y PostgreSQL.
+
+Todo el código fue revisado, adaptado y probado manualmente antes de ser implementado en el proyecto final. La utilización de IA tuvo un propósito educativo y de asistencia técnica durante el desarrollo de la aplicación.

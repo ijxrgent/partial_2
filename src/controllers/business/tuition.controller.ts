@@ -2,8 +2,8 @@
 
 import { Request, Response } from "express";
 
-import { Tuition, TuitionI } from "../../models/business/Tuition.js";
-import { Car } from "../../models/business/Car.js";
+import { Tuition, TuitionI } from "../../models/business/Tuition";
+import { Car } from "../../models/business/Car";
 
 export class TuitionController {
 

@@ -1,5 +1,5 @@
 import { DataTypes, Model } from "@sequelize/core";
-import { sequelize } from "../../database/db.js";
+import { sequelize } from "../../database/db";
 
 export interface CarI {
   id?: number;

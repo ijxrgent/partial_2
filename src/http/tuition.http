@@ -1,0 +1,34 @@
+### GET ALL TUITIONS
+GET http://localhost:4000/api/tuitions
+
+
+### GET TUITION BY ID
+GET http://localhost:4000/api/tuitions/1
+
+
+### CREATE TUITION
+POST http://localhost:4000/api/tuitions
+Content-Type: application/json
+
+{
+  "date_matricula": "2026-05-13",
+  "ciudad": "Cali",
+  "pago": 850000,
+  "car_id": 1
+}
+
+
+### UPDATE TUITION
+PUT http://localhost:4000/api/tuitions/1
+Content-Type: application/json
+
+{
+  "date_matricula": "2026-06-01",
+  "ciudad": "Bogotá",
+  "pago": 1200000,
+  "car_id": 2
+}
+
+
+### DELETE TUITION
+DELETE http://localhost:4000/api/tuitions/1

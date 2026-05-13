@@ -1,0 +1,36 @@
+### GET ALL CARS
+GET http://localhost:4002/api/cars
+
+
+### GET CAR BY ID
+GET http://localhost:4002/api/cars/1
+
+
+### CREATE CAR
+POST http://localhost:4002/api/cars
+Content-Type: application/json
+
+{
+  "marca": "Toyota",
+  "clase": "SUV",
+  "modelo": 2024,
+  "cilindraje": "2000cc",
+  "capacidad": 5
+}
+
+
+### UPDATE CAR
+PUT http://localhost:4002/api/cars/1
+Content-Type: application/json
+
+{
+  "marca": "Mazda",
+  "clase": "Sedan",
+  "modelo": 2025,
+  "cilindraje": "1800cc",
+  "capacidad": 4
+}
+
+
+### DELETE CAR
+DELETE http://localhost:4002/api/users/1

@@ -1,9 +1,9 @@
 // src/models/business/Tuition.ts
 
 import { DataTypes, Model } from "@sequelize/core";
-import { sequelize } from "../../database/db.js";
+import { sequelize } from "../../database/db";
 
-import { Car } from "./Car.js";
+import { Car } from "./Car";
 
 export interface TuitionI {
   id?: number;
