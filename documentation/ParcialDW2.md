@@ -33,3 +33,7 @@ Ahora creo el modelo de Tuition
 ![![](images/clipboard-2595294383.png)](images/clipboard-1542729316.png)
 
 ![![](images/clipboard-3335005938.png)](images/clipboard-185741528.png)
+
+Controlador del modelo Tuition
+
+![](images/clipboard-866841898.png)
