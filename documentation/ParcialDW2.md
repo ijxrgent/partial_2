@@ -79,7 +79,6 @@ tuition.http
 # Declaración de uso de Inteligencia Artificial
 
 Para el desarrollo de este proyecto se utilizó Inteligencia Artificial como herramienta de apoyo en el proceso de aprendizaje, análisis y programación. La IA fue empleada principalmente para:
-
 - Orientación en la estructura del proyecto.
 
 - Generación de ejemplos de código en TypeScript, Express y Sequelize.
