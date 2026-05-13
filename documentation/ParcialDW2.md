@@ -34,6 +34,22 @@ Ahora creo el modelo de Tuition
 
 ![![](images/clipboard-3335005938.png)](images/clipboard-185741528.png)
 
+<https://github.com/ijxrgent/partial_2/commit/2c0f60a315ca8f6c7b46a6cc26a0452bc4e9dce5>
+
 Controlador del modelo Tuition
 
 ![](images/clipboard-866841898.png)
+
+<https://github.com/ijxrgent/partial_2/commit/9e22779a71db52b66c2794e28f138f345967f7bb>
+
+Rutas
+
+![](images/clipboard-2813493126.png)
+
+creando el faker de Car
+
+![](images/clipboard-3604442496.png)
+
+Creando el faker de Tuition
+
+![](images/clipboard-4285038098.png)

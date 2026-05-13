@@ -19,6 +19,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "@faker-js/faker": "^10.4.0",
     "@sequelize/core": "^7.0.0-alpha.48",
     "@sequelize/mysql": "^7.0.0-alpha.48",
     "@sequelize/postgres": "^7.0.0-alpha.48",
